@@ -9,7 +9,7 @@
 
 </div>
 
-<h3>Open source projects</h3>
+### Open source projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -33,7 +33,9 @@
   </tbody>
 </table>
 
-
+### Products
+- **[Plinkr](https://plinkr.nl)** - an online platform and app to help financial care professionals and their clients collaboratively map, manage, and improve personal finances—aiming to reduce money worries and support financial self-sufficiency
+- **[PlusOV Wmo app](https://www.plusov.nl/nieuws/nieuwsbericht/artikel/nieuw-de-plusov-wmo-app)** - a mobile application that lets users with a PlusOV Wmo pass easily book, view, and manage their accessible on-demand rides and receive real-time notifications about their trips
 
 
 <!--
