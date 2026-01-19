@@ -31,8 +31,8 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/srstomp/ohno?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/srstomp/pokayokay"><b>Ohno</b></a></td>
-      <td>An orchestration plugin for Claude Code that enables reliable autonomous development sessions with configurable checkpoints and task management</td>
+      <td><a href="https://github.com/srstomp/pokayokay"><b>Pokayokay</b></a></td>
+      <td>An orchestration plugin for Claude Code</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/srstomp/pokayokay?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/srstomp/pokayokay?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/srstomp/pokayokay?style=flat-square&labelColor=343b41"/></td>
