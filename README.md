@@ -38,8 +38,18 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/srstomp/pokayokay?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/srstomp/pokayokay?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/srstomp/kaizen"><b>Kaizen</b></a></td>
+      <td>Evaluation framework for AI agents.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/srstomp/kaizen?style=flat-square&labelColor=343b41&cacheSeconds=3600"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/srstomp/kaizen?style=flat-square&labelColor=343b41&cacheSeconds=3600"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/srstomp/kaizen?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/srstomp/kaizen?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
+
+
 
 ### Products
 - **[Plinkr](https://plinkr.nl)** - an online platform and app to help financial care professionals and their clients collaboratively map, manage, and improve personal finances—aiming to reduce money worries and support financial self-sufficiency
