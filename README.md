@@ -1,6 +1,5 @@
 <div align="center">
   
-![Profile View Counter](https://komarev.com/ghpvc/?username=stevestomp)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevestomp/)
 
 ## ✨ Hi, I'm Steve ✨
