@@ -4,7 +4,7 @@
 
 ## ✨ Hi, I'm Steve ✨
 
-📍 **Amsterdam** | 🛖 **Founder BNJMS** | 🛖 **Co-Founder Plinkr** 
+📍 **Amsterdam** | 🛖 **Co-Founder BNJMS** | 🛖 **Co-Founder Sakebadr** 
 
 </div>
 
