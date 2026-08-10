@@ -4,7 +4,7 @@
 
 ## ✨ Hi, I'm Steve ✨
 
-📍 **Amsterdam** | 🛖 **Co-Founder BNJMS** | 🛖 **Co-Founder Sakebadr** 
+📍 **Amsterdam** | 🛖 **Co-Founder BNJMS** | 🛖 **Co-Founder Sakebase** 
 
 </div>
 
